@@ -31,7 +31,7 @@
 | p.239 | 下から 2 行目 | $\boldsymbol{W}_i$ | $\boldsymbol{W}_{:,i}$ | ※1 との整合性を取るため |  |
 | p.263 | 8.2.3 節 1 行目 | 定理 8.6 より | 定理 8.7 より | |  |
 | p.270 | 式 (7.62) | $f(\pi \cdot x) = f(x) ~(\forall x \in \mathbb{R})$ | $f(\pi \cdot \boldsymbol{X}) = f(\boldsymbol{X}) ~(\forall \boldsymbol{X} \in \mathbb{R}^{n^k})$ | |  |
-| p.272 | 2 行目 | $\boldsymbol{W} \in \mathbb{R}^{n^k}$ | $\boldsymbol{W} \in \mathbb{R}^{n^{l + k}}$ | |  |
+| p.272 | 2 行目 | $\boldsymbol{W} \in \mathbb{R}^{n^k}$ | $\boldsymbol{W}^f \in \mathbb{R}^{n^{l + k}}$ | |  |
 | p.275 | 式 (8.79) の下 | 順列 $\pi_{k + l}$ | 順列 $\pi$ | |  |
 | p.278 | 8.3.2 節の 2 行目 | $k$ 次のワイスファイラー・リーマン検査は | $k ~(\ge 2)$ 次のワイスファイラー・リーマン検査は | $k = 1$ のとき、アルゴリズム 8.2 はワイスファイラー・リーマン検査に対応しません。※2 |  |
 | p.279 | アルゴリズム 8.2 の 8 行目 | $(\forall \boldsymbol{v} \in V)$ | $(\forall \boldsymbol{v} \in V^k)$ | |  |
