@@ -39,4 +39,4 @@ Colab で実行する場合は Colab 上で [PyTorch Geometric](https://pytorch-
 
 # 正誤表
 
-本書の正誤情報は[正誤表](https://github.com/joisino/gnnbook/blob/main/eratta.md)にて公開しています。
+本書の正誤情報は[正誤表](https://github.com/joisino/gnnbook/blob/main/errata.md)にて公開しています。
