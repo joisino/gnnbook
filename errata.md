@@ -4,6 +4,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | p.29 | 15 行目 | $v \in v$ | $v \in V$ | |  |
 | p.45 | 問題 2.1 の出力 | $v \in U$ | $v \in V_U$ | |  |
+| p.52 | 式 (2.37) | $\boldsymbol{W} = \boldsymbol{V} \text{Diag}([\lambda_1, \ldots, \lambda_n]) \boldsymbol{V}^\top$| $(\boldsymbol{D} + \boldsymbol{W}) = \boldsymbol{V} \text{Diag}([\lambda_1, \ldots, \lambda_n]) \boldsymbol{V}^\top$ | |  |
 | p.55 | アルゴリズム 2.2 手順 2  | $\boldsymbol{Z} = [\sqrt{\lambda_1} \boldsymbol{v}_1, \sqrt{\lambda_2} \boldsymbol{v}_2, \ldots, \sqrt{\lambda_d} \boldsymbol{v}_d]^\top$ | $\boldsymbol{Z} = [\sqrt{\lambda_1} \boldsymbol{v}_1, \sqrt{\lambda_2} \boldsymbol{v}_2, \ldots, \sqrt{\lambda_d} \boldsymbol{v}_d]$ | |  |
 | p.70 | 下から 9 行目 | ユーザー $u$ の中間表現 $\boldsymbol{h}_v^{(2)}$ | ユーザー $u$ の中間表現 $\boldsymbol{h}_u^{(2)}$ | |  |
 | p.70 | 下から 7 行目 | 第 2 層の表現 $\boldsymbol{h}_v^{(2)}$ | 第 2 層の表現 $\boldsymbol{h}_{v'}^{(2)}$ | |  |
@@ -19,6 +20,7 @@
 | p.182 | 下から 6 行目 | $\boldsymbol{L}^{i+1}$ | $\boldsymbol{L}^{l+1}$ | |  |
 | p.190 | 1 行目 | 各行が 1 | 各行の要素の和が 1 | |  |
 | p.191 | 式 (6.93) | $\mathcal{E}$ | $E$ | |  |
+| p.192 | 式 (6.95) 直後 | $(\theta_1, \theta_2)$ | $(\theta_0, \theta_1)$ | |  |
 | p.212 | 式 (6.133) | $\boldsymbol{f}_1 \le \boldsymbol{f}_2 \le \ldots \le \boldsymbol{f}_n$ | $\frac{\boldsymbol{f}_1}{\sqrt{\text{deg}(1)}} \le \frac{\boldsymbol{f}_2}{\sqrt{\text{deg}(2)}} \le \ldots \le \frac{\boldsymbol{f}_n}{\sqrt{\text{deg}(n)}}$ | |  |
 | p.222 | 定理 7.1 | $\boldsymbol{W} \in \mathbb{R}^{d \times d_{\text{out}}}$ | $\boldsymbol{W} \in \mathbb{R}^{d_{\text{out}} \times d}$ | ※1 との整合性を取るため |  |
 | p.223 | 式 (7.9) 下から 2 行目と 3 行目 | $v \in E$ | $v \in V$ | |  |
