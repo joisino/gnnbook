@@ -3,7 +3,10 @@
 | 該当ページ |  該当箇所 |  誤  |  正  | 補足 | 対応 | 
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | p.29 | 15 行目 | $v \in v$ | $v \in V$ | |  |
-| p.45 | 問題 2.1 の出力 | $v \in U$ | $v \in V_\text{U}$ | |  |
+| p.45 | 式 (2.28) | $= 0$ | $= \boldsymbol{0}$ | 0 はベクトルなので太字 |  |
+| p.46 | 問題 2.1 の出力 | $v \in U$ | $v \in V_\text{U}$ | |  |
+| p.48 | 式 (2.31) の直前 | $q \in \mathbb{R}^d$ | $q \in \mathbb{R}^{V_U}$ | |  |
+| p.51 | 下から 8 行目 | $B_v$ は疎な行列 | $B_v$ は疎なベクトル | |  |
 | p.52 | 式 (2.37) | $\boldsymbol{W} = \boldsymbol{V} \text{Diag}([\lambda_1, \ldots, \lambda_n]) \boldsymbol{V}^\top$| $(\boldsymbol{D} + \boldsymbol{W}) = \boldsymbol{V} \text{Diag}([\lambda_1, \ldots, \lambda_n]) \boldsymbol{V}^\top$ | |  |
 | p.55 | アルゴリズム 2.2 手順 2  | $\boldsymbol{Z} = [\sqrt{\lambda_1} \boldsymbol{v}_1, \sqrt{\lambda_2} \boldsymbol{v}_2, \ldots, \sqrt{\lambda_d} \boldsymbol{v}_d]^\top$ | $\boldsymbol{Z} = [\sqrt{\lambda_1} \boldsymbol{v}_1, \sqrt{\lambda_2} \boldsymbol{v}_2, \ldots, \sqrt{\lambda_d} \boldsymbol{v}_d]$ | | 3 刷で修正  |
 | p.70 | 下から 9 行目 | ユーザー $u$ の中間表現 $\boldsymbol{h}_v^{(2)}$ | ユーザー $u$ の中間表現 $\boldsymbol{h}_u^{(2)}$ | |  |
