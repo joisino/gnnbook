@@ -17,6 +17,7 @@
 | p.92, 317 | 1 行目, 索引 | Heterogeneous graph Attension Network | Heterogeneous graph Attention Network | | 5 刷で修正  |
 | p.105 | 図 4.2 u の特徴 | $(0, 0)$ | $(0, 2)$ | |  |
 | p.105 | 図 4.2 v の特徴 | $(0, 0)$ | $(2, 0)$ | |  |
+| p.109 | 式 (4.16) | $j\colon (u, i) \not \in \mathcal{P}$ | $j\colon (u, j) \not \in \mathcal{P}$ | |  |
 | p.129, p.131, p.133, p.137 | アルゴリズム 5.1 の 10 行目、アルゴリズム 5.2 の 11 行目、アルゴリズム 5.3 の 7 行目、アルゴリズム 5.4 の 9 行目 | $(\forall v \in V)$ | トル | |  |
 | p.137 | アルゴリズム 5.4 の 3 行目 | | 行を削除 | |  |
 | p.137 | アルゴリズム 5.4 の 5 行目 | $u_K$ | $u_{K_l}$ | |  |
